@@ -1,0 +1,18 @@
+h1.col-sm-4 {
+  font-family: 'Encode Sans Semi Condensed', sans-serif;
+  color: #0f6fff;
+  font-size: 55px;
+}
+
+h2 {  
+  font-family: 'Encode Sans Semi Condensed', sans-serif;
+  padding:20px;
+  color: white;
+  font-size: 50px;
+  overflow: hidden;
+
+}
+
+section.jumbotron {
+  background-image: url("https://github.com/XiaoNai1987/blutechlabs.github.io/blob/master/Blutech%20Background1.jpg?raw=true");
+}
